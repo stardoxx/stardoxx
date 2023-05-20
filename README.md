@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ashutosh Singh Yadav 
 - 👀 I’m interested in WebDev, Machine Learning
-- 🌱 I’m currently learning Web Development
 - 📫 Reach me ashutoshsinghyadav03@gmail.com
 
 <!---
